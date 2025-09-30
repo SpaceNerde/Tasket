@@ -11,8 +11,8 @@ Download
 
 Roadmap
 ------
-[ ] - Create simple tasks to manage in Terminal
-[ ] - Create Settings tab for changing hotkeys and customizing
-[ ] - Implement template engine to make Looks and feels of the Task Manager completle customizable
-[ ] - Maybe add to AUR repo
+- [ ] Create simple tasks to manage in Terminal
+- [ ] Create Settings tab for changing hotkeys and customizing
+- [ ] Implement template engine to make Looks and feels of the Task Manager completle customizable
+- [ ] Maybe add to AUR repo
 
