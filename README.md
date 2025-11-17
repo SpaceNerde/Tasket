@@ -1,3 +1,5 @@
+[![Built With Ratatui](https://img.shields.io/badge/Built_With_Ratatui-000?logo=ratatui&logoColor=fff)](https://ratatui.rs/)
+
 # Tasket
 Tasket is a easy to use Terminal based Task Manager like Scrum or Jira
 
