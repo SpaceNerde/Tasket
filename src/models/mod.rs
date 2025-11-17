@@ -1,3 +1,3 @@
-mod task_model;
-mod state_model;
-mod project_model;
+pub(crate) mod task_model;
+pub(crate) mod state_model;
+pub(crate) mod project_model;
